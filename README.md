@@ -44,7 +44,9 @@ O arquivo test.py realiza alguns testes para verificar se o banco possui o núme
 
 #### Execução:
 
-Assumindo que o usuário já possui o python3.8 instalado e o selenium, o json é uma biblioteca que já está inclusa por padrão no python, então, o usuário pode executar o comando:
+O usuário deve baixar os arquivos main.py, process_data.py e test.py para uma mesma pasta.
+Assumindo que o usuário já possui o python3.8 instalado e o selenium, o json é uma biblioteca que já está inclusa por padrão no python, então, o usuário pode acessar a pasta que contém os arquivos e executar o comando:
+
 python3.8 main.py
 
 Logo em seguida pode acompanhar a saída do programa:
